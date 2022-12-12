@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background-image: linear-gradient(45deg, rgb(231, 35, 35) 200px, rgb(13, 105, 33));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    font-size: x-large;
+    color: yellow;
+}
